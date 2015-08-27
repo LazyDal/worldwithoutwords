@@ -1,0 +1,26 @@
+{
+  "name": "worldwithoutwords",
+  "version": "0.1.0",
+  "description": "multimedia no-words information portal",
+  "main": "/client/index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "www"
+  },
+  "keywords": [
+    "news",
+    "multimedia"
+  ],
+  "author": "Dalibor Dragojevic",
+  "license": "GPL-2.0",
+  "devDependencies": {
+    "jsx-loader": "^0.13.2"
+  },
+  "dependencies": {
+    "jquery": "^2.1.4"
+  }
+}
